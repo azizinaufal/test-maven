@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="basic-apache-maven" />
+        <module name="basic-apache-maven-app" />
+        <module name="basic-apache-maven-data" />
       </profile>
     </annotationProcessing>
   </component>
